@@ -18,7 +18,7 @@ else{
     Console.Write (num2 + " больше " + num1 );
 }
 
-
+/*
 //Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
 int num1;
@@ -89,3 +89,4 @@ while (current < N){
     Console.Write (current+ " ");
     current = current + 2;
 }
+*/
